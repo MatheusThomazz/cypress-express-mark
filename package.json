@@ -1,0 +1,11 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.35.0",
+    "allure-commandline": "^2.20.1",
+    "cypress": "^12.4.0"
+  }
+}
